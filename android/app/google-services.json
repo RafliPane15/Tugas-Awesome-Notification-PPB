@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055390270264",
+    "project_id": "test-68588",
+    "storage_bucket": "test-68588.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055390270264:android:d435496d14226b39bdb7cd",
+        "android_client_info": {
+          "package_name": "com.example.latihan2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ8a5GIdFNAOdI707N9Cb0P3eYEuJv70Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055390270264:android:eba865e1677377b1bdb7cd",
+        "android_client_info": {
+          "package_name": "com.example.tugas_awesome_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ8a5GIdFNAOdI707N9Cb0P3eYEuJv70Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
